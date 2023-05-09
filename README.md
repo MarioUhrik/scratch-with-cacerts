@@ -1,4 +1,4 @@
-The `scratch` Docker image, but with ca certificates included within.
+The `scratch` Docker image, but with ca certificates already included.
 
 `docker pull ghcr.io/mariouhrik/scratch-with-cacerts`
 
